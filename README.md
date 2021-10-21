@@ -129,8 +129,7 @@
 '''Basic Code'''
 
 ```ruby
-<div style="height:25em; overflow:auto; border: 1px solid #008">
-     <syntaxhighlight lang="c">
+
 
 //http://pasted.co/a664c08a
 #include <Wire.h>
@@ -192,17 +191,13 @@ void rev_counter() {
   revolutions++;
 }
 
-</syntaxhighlight>
-</div>
+
 ```
 
-'''Code with RPM'''
+## Code with RPM
 
 
-<div style="height:25em; overflow:auto; border: 1px solid #008">
-     <syntaxhighlight lang="c">
-~
-//Jude Fairchild
+```ruby
 // PID Box
 // 5/31/19
 // The purpose of a PID Box is to have a motor spin to a desired speed and calculate RPMs
@@ -286,8 +281,7 @@ void off() {
   state = !state;
 }
 
-</syntaxhighlight>
-</div>
+```
 
 == Wiring and Solidworks Advancements ==
 ''' These are the wiring advancements I take a picture whenever I add something new to the wiring. '''
