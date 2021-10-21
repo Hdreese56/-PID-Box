@@ -128,7 +128,7 @@
 
 '''Basic Code'''
 
-~ruby~
+```ruby
 <div style="height:25em; overflow:auto; border: 1px solid #008">
      <syntaxhighlight lang="c">
 
@@ -194,7 +194,7 @@ void rev_counter() {
 
 </syntaxhighlight>
 </div>
-
+```
 
 '''Code with RPM'''
 
