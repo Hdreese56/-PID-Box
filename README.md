@@ -38,11 +38,11 @@ The purpose of this project is for us to attempt to make a wheel spin to a desir
 
 ### Schedule 
 
-* 5/10  Start Code and Solidworks
-*''' 5/17 ''' Have wheel and wheel holder finished in Solidworks, have the motor spinning
-*''' 5/24 ''' Have the Box Done and test PID Code
-*''' 5/31 ''' Assemble Box and get the LCD Screen and Potentiometer Working
-*''' 6/6 ''' Have all code working and troubleshoot
+* 5/10 - Start Code and Solidworks
+* 5/17 - Have wheel and wheel holder finished in Solidworks, have the motor spinning
+* 5/24 - Have the Box Done and test PID Code
+* 5/31 - Assemble Box and get the LCD Screen and Potentiometer Working
+* 6/6 - Have all code working and troubleshoot
 
 
 ### Measure of Success 
